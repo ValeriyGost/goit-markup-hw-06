@@ -657,6 +657,15 @@ letter-spacing: 0.02em;
   padding-bottom: 96px;
 }
 .portfolio-title {
+
+font-weight: 700;
+font-size: 36px;
+
+ 
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--navy-blue);
   text-align: center;
   text-transform: capitalize;
   margin-bottom: 72px;
