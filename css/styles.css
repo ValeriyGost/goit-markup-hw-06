@@ -782,6 +782,9 @@ letter-spacing: 0.02em;
   padding: 96px 0;
   text-align: center;
 }
+.container-logo{
+  margin-bottom: 72px;
+}
 
 .footer-logo {
   display: inline-block;
@@ -884,6 +887,8 @@ svg {
 }
 @media screen and (min-width: 768px){
   .container-footer {
+    align-items: flex-start; 
+    justify-content: flex-start;
     max-width: 584px;
    margin: 0 auto;  
   }
@@ -898,6 +903,7 @@ svg {
 
 @media screen and (min-width: 1158px) {
   .footer {
+    margin-bottom: 0;;
     padding: 100px 0;
   }
 
